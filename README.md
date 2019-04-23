@@ -3,6 +3,14 @@
 
 **Autor:**  [Parzibyte](https://parzibyte.me/blog)
 
+## Tutorial explicativo en mi blog:
+https://parzibyte.me/blog/2019/04/22/marca-de-agua-imagenes-php/
+
+## Vídeo en YouTube
+[https://www.youtube.com/watch?v=7V51-EPtsec](https://www.youtube.com/watch?v=7V51-EPtsec)
+
+## Ejemplos
+
 -   [Arriba al centro](https://www.parzibyte.me/ejemplos/marcas_de_agua/arriba_centro.php)
 -   [Arriba a la derecha](https://www.parzibyte.me/ejemplos/marcas_de_agua/arriba_derecha.php)
 -   [Arriba a la izquierda](https://www.parzibyte.me/ejemplos/marcas_de_agua/arriba_izquierda.php)
